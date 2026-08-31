@@ -1,0 +1,19 @@
+.root {
+    -fx-background-color: #111111;
+}
+
+.game-board {
+    -fx-background-color: #111111;
+}
+
+.score {
+    -fx-fill: white;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+
+.game-over {
+    -fx-fill: white;
+    -fx-font-size: 40px;
+    -fx-font-weight: bold;
+}
